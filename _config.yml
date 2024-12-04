@@ -4,7 +4,7 @@ baseurl: "/amzaff"
 url: "https://nickscbr.github.io"
 
 
-theme: minima
+theme: long-haul
 plugins:
   - jekyll-feed
 
