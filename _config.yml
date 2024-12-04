@@ -22,10 +22,8 @@ title: Nick's Amazon Deals
 email: nicktoms1@icloud.com
 description: >- # this means to ignore newlines until "baseurl:"
   Curated Amazon deals with the best discounts, perfect for savvy shoppers.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "https://nickscbr.github.io"
+baseurl: "/amzaff"
 
 # Build settings
 theme: minima
