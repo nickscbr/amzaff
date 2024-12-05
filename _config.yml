@@ -1,0 +1,24 @@
+title: Nick's Amazon Deals
+description: Curated Amazon deals and discounts.
+baseurl: "/amzaff" # Required for GitHub Pages subdirectory
+url: "https://nickscbr.github.io" # Your GitHub Pages URL
+
+paginate_path: "blog/page:num/"
+permalink: blog/:title/ # Keeps URLs neat and user-friendly
+
+sass:
+  style: compressed
+
+markdown: kramdown
+highlighter: rouge
+plugins: [jekyll-paginate]
+paginate: 5
+
+# Navigation menu links
+navigation:
+  - title: Home
+    url: /index.html
+  - title: About
+    url: /about
+  - title: Contact
+    url: /contact
